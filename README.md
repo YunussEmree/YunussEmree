@@ -1,3 +1,5 @@
+https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif
+
 # 💫 About Me:
 💻 I’m junior developer<br>💁 My name is Yunus Emre<br>🚩 I’m from Turkey<br>🏫 I am a 1st year software engineering student at Mehmet Akif Ersoy University
 
