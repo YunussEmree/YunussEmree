@@ -1,13 +1,3 @@
-<img align="left" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif?raw=true" height="320" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
-
-
-
-
-
-
-
-
-
 # 💫 About Me:
 💻 I’m junior developer<br>💁 My name is Yunus Emre<br>🚩 I’m from Turkey<br>🏫 I am a 1st year software engineering student at Mehmet Akif Ersoy University
 
