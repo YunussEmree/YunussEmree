@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻 I’m junior developer<br>🚩 I’m from Turkey<br>🏫 I'm student of Mehmet Akif Ersoy University Software Development
+💻 I’m junior developer<br>💁 My name is Yunus Emre<br>🚩 I’m from Turkey<br>🏫 I am a 1st year software engineering student at Mehmet Akif Ersoy University
 
 
 ## 🌐 Socials:
