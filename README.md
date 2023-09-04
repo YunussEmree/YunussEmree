@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻 I’m junior developer<br>💁 My name is Yunus Emre<br>🚩 I’m from Turkey<br>🚩 Languages ​​I know: Turkish(C1), English(B1-B2), Spanish(Learning)<br>🏫 I am a 1st year software engineering student at Mehmet Akif Ersoy University
+💻 I’m junior developer<br>💁 My name is Yunus Emre<br>🇹🇷 I’m from Turkey<br>🚩 Languages ​​I know: Turkish(C1), English(B1-B2), Spanish(Learning)<br>🏫 I am a 1st year software engineering student at Mehmet Akif Ersoy University
 
 
 ## 🌐 Socials:
