@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻 Junior Full-Stack Java Developer<br>💁 My name is Yunus Emre and I'm from Turkey<br>🚩 Languages ​​I know: English(B1-B2)
+💻 Junior Full-Stack Java Developer<br>💁 My name is Yunus Emre and I'm from Turkey<br>🚩 Languages: English(B1-B2)
 
 
 ## 🌐 Socials:
