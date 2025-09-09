@@ -1,7 +1,3 @@
-
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&background=000000&center=true&vCenter=true&width=1000&lines=Hello👋+I'm+Yunus+Emre.;🌱I'm+a+Software+Engineer!" alt="Typing SVG" /></a>
-<br />
-
 # 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yunus-emre-şenyiğit-135296235) 
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/u/blestit/)
@@ -52,6 +48,6 @@
 
 <br>
 
-[![](https://visitcount.itsvg.in/api?id=YunussEmree&icon=0&color=0)](https://visitcount.itsvg.in)
+![](https://api.visitorbadge.io/api/VisitorHit?user=YunussEmree&repo=github-visitors-badge&countColor=%237B1E7A)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
